@@ -8,7 +8,7 @@ public class palindrome{
             if(isPalindrome(word)){
                 system.out.println(word="is a palindrome!");
             }else{
-                system.out.println(word+"is NOT a palindrome!")
+                system.out.println(word+"is NOT a palindrome!");
             }
     }
     public static boolean ispalindrome(string str){
