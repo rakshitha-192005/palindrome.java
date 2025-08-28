@@ -5,7 +5,7 @@ public class palindrome{
             return;
         }
             string word= args[0];
-            if(is palindrome(word)){
+            if(isPalindrome(word)){
                 system.out.println(word="is a palindrome!");
             }else{
                 system.out.println(word+"is NOT a palindrome!")
